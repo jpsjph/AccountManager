@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73cc35d3-0c7b-4fa0-a9d4-ad40ded7d847" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/accounts/ContentReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/accounts/FileReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/accounts/ScreenDisplay.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/accounts/TransactionHandler$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/accounts/TransactionHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/accounts/TransactionSystem$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/accounts/TransactionSystem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/models/Stats$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/models/Stats.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/models/Transaction$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/models/Transaction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/models/TransactionStats$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/models/TransactionStats.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/utils/Functions$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/utils/Functions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/utils/OutputType$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/utils/OutputType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/accounts/ScreenDisplayTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/accounts/TransactionSystemTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/utils/FunctionsTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_2_0_2_beta.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_12_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalactic_scalactic_2_12_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalatest_scalatest_2_12_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accountmanage.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/accounts/ContentReader.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/accounts/ScreenDisplay.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/accounts/TransactionHandler.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/accounts/TransactionSystem.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/models/Stats.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/models/Transaction.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/models/TransactionStats.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/utils/Functions.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/Utils/FunctionsTest.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/accounts/ScreenDisplayTest.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/accounts/TransactionSystemTest.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="accountManager.iws" />
     <ignored path=".idea/workspace.xml" />
